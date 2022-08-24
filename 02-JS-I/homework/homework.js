@@ -173,7 +173,7 @@ function esPositivo(numero) {
   if (num === 2) {
     return true ;
   } 
-  if else ( num > 2){
+  if else ( num > 2) {
     return "Es positivo";
   }
    else{
